@@ -1,4 +1,4 @@
-## Super Bowl Data Analysis
+# Super Bowl Data Analysis
 
 ## Overview
 This project explores a dataset consisting of game data, TV broadcast data, and halftime show musician data for all 52 Super Bowls up to 2018. The analysis aims to uncover interesting insights about the games, viewership trends, and halftime show performances.
