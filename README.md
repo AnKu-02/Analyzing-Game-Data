@@ -9,7 +9,7 @@ The dataset is split into three CSV files:
 - `tv.csv`: Focuses on the TV broadcast aspect, detailing the network, average and total US viewers, ratings, shares, and advertising costs.
 - `halftime_musicians.csv`: Lists the musicians who performed at the halftime shows, along with the number of songs they performed.
 
-## Key Insights Sought
+## Key Insights
 - The distribution of combined points across Super Bowls shows variability, with some games having high scoring and others much lower.
 - Point differences among games highlight both closely contested matches and significant blowouts.
 - Analysis of viewer ratings and ad costs over time shows how the Super Bowl's popularity and commercial value have evolved.
